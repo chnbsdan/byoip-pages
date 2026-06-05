@@ -90,7 +90,7 @@ export default defineNuxtConfig({
       link: [
         { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
         { rel: 'canonical', href: 'https://www.byoip.top' },
-        { rel: 'preconnect', href: 'https://cdn.jsdmirror.com', crossorigin: 'anonymous' },
+       // { rel: 'preconnect', href: 'https://cdn.jsdmirror.com', crossorigin: 'anonymous' },
       ],
       script: [
         {
