@@ -11,7 +11,7 @@
             Powered By <a href="https://nuxt.com" class="text-blue-600"> <img :src="nuxtIcon" alt="Nuxt" class="w-auto h-4" /></a>
             
             &nbsp;
-            <a href="https://github.com/FrecklyComb1728/byoip-pages"><img :src="githubIcon" alt="GitHub" class="w-auto h-7 inline-block"/></a>
+            <a href="https://github.com/chnbsdan/byoip-pages"><img :src="githubIcon" alt="GitHub" class="w-auto h-7 inline-block"/></a>
           </span>
         </nav>
       </div>
